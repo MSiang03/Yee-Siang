@@ -1,7 +1,7 @@
 <div align="center">
 
 <kbd>
-<img src="https://avatars.githubusercontent.com/u/39422761?v=4](https://avatars.githubusercontent.com/u/115247345?v=4=" height="125px"/>
+<img src="https://avatars.githubusercontent.com/u/115247345?v=4=" height="125px"/>
 </kbd>
 
 # **Yee Siang**
